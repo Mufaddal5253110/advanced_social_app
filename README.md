@@ -1,6 +1,31 @@
-# myapp
+</p>
+<h1 align="center">Advanced Social App</h1>
+<h3 align="center">Advanced Social App like Instagram and others,  demonstrating some advanced features like Pagination, Data Cache etc.</h3>
 
-A new Flutter project.
+### Todo
+
+- [x] Pagination in posts
+- [x] Search user
+- [x] Pagination in search user 
+- [x] Pagination in comments
+- [X] Cache of user profile data
+- [x] Cache of "n" recent posts 
+- [X] Connectivity check on posts like,dislike,comment etc.
+- [ ] Continuing Like, Dislike request on posts when user backs online.
+- [ ] Chat feature using socket.io
+- [ ] Pagination in chat feature
+- [ ] Caching Some "n" number of chats
+- [ ] Audio/Video Call using socket.io
+
+## Overview
+| ![Overview](myapp.gif) | 
+
+## Contributing
+
+If you want to take the time to make this project better, please read the Todo first and try to complete them. Then, you can open a new [issue](https://github.com/Mufaddal5253110/advanced_social_app/issues/new/choose), of a [pull request](https://github.com/Mufaddal5253110/advanced_social_app/compare).
+
+## Backend
+[Backend Using Nodejs MongoDB](https://github.com/Mufaddal5253110/advanced_social_app_backend)
 
 ## Getting Started
 
