@@ -4,6 +4,8 @@
 
 ### Todo
 
+- [x] Login with Email & password
+- [x] Login with Facebook
 - [x] Pagination in posts
 - [x] Search user
 - [x] Pagination in search user 
